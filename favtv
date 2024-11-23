@@ -123,20 +123,21 @@ BS/CS-primehome,#genre#
 テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
 ＴＯＫＹＯ　ＭＸ１,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
 地/BS/CS-nekocdn,#genre#
-ＮＨＫ総合　東京,https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
-ＮＨＫＥテレ,https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
-日テレ,https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
-ＴＢＳ,https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
-フジテレビ,https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
-テレビ朝日,https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
-テレビ東京,https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
-ＴＯＫＹＯ　ＭＸ１,https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
-ＮＨＫ　ＢＳ,https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
-ＢＳ１１イレブン,https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
-ＢＳアニマックス,https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
-ＡＴ－Ｘ,https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
-ＭＴＶ,https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
-スペースシャワーＴＶ,https://vnpt.nekocdn.xyz/hls/Space_Shower/index.m3u8
+ＮＨＫ総合　東京,https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
+ＮＨＫＥテレ,https://vnpt.nekocdn.xyz/d074504f-ca7a-467e-a67c-a91e69461775.m3u8
+日テレ,https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8
+ＴＢＳ,https://vnpt.nekocdn.xyz/memfs/d90fa53e-51d2-4364-aa9b-480a883a2bfb.m3u8
+フジテレビ,https://vnpt.nekocdn.xyz/memfs/5417ea42-1305-40d2-b318-bcc9552fe3fb.m3u8
+テレビ朝日,https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
+テレビ東京,https://vnpt.nekocdn.xyz/memfs/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
+ＴＯＫＹＯ　ＭＸ１,https://vnpt.nekocdn.xyz/memfs/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
+ＮＨＫ　ＢＳ,https://vnpt.nekocdn.xyz/9ca1151d-7a96-4c1a-9672-8853124bba85.m3u8
+ＢＳ１１イレブン,https://vnpt.nekocdn.xyz/11644528-009c-47e3-a444-16da17f3f88f.m3u8
+ＷＯＷＯＷプライム,https://vnpt.nekocdn.xyz/memfs/c7f9407a-6fcb-46e2-a649-98c15ffe0a6e.m3u8
+ＢＳアニマックス,https://vnpt.nekocdn.xyz/memfs/68ea67df-d4e1-44cb-bdb9-179dd01b7db4.m3u8
+ＡＴ－Ｘ,https://vnpt.nekocdn.xyz/memfs/934473ee-a4c0-40be-bae1-5c692023c2bd.m3u8
+ＭＴＶ,https://vnpt.nekocdn.xyz/memfs/4b5031a9-04eb-4320-a708-bad2ac658205.m3u8
+スペースシャワーＴＶ,https://vnpt.nekocdn.xyz/memfs/bb127794-ed6f-44cb-9a77-3f1e63c0dbd9.m3u8
 JPTV-テスト,#genre#
 日テレプラス(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live01.m3u8
 テレ朝チャンネル１(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live02.m3u8
