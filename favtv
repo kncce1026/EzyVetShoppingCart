@@ -143,14 +143,16 @@ JPTV-テスト,#genre#
 テレ朝チャンネル１(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live02.m3u8
 テレ朝チャンネル２(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live03.m3u8
 ＡＴ－Ｘ(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live04.m3u8
-ＮＨＫ総合　大阪(テスト),http://csui.djtmewibu.com/nhkg/index.m3u8
-ｔｖｋ(テスト),http://csui.djtmewibu.com/tvk/index.m3u8
-テレ玉(テスト),http://csui.djtmewibu.com/tvs/index.m3u8
-ＴＯＫＹＯ　ＭＸ２(テスト),http://csui.djtmewibu.com/mx2/index.m3u8
-新潟テレビ２１(テスト),http://csui.djtmewibu.com/ux21/index.m3u8
-ＲＣＣテレビ１(テスト),http://csui.djtmewibu.com/rcc/index.m3u8
-ＢＳ１１イレブン(テスト),http://csui.djtmewibu.com/bs11/index.m3u8
-ＡＴ－Ｘ　ＨＤ(テスト),http://csui.djtmewibu.com/at-x/index.m3u8
+ＮＨＫ総合　大阪(テスト),http://r3jx.djtmewibu.com/nhkg/index.m3u8
+ｔｖｋ(テスト),http://r3jx.djtmewibu.com/tvk/index.m3u8
+テレ玉(テスト),http://r3jx.djtmewibu.com/tvs/index.m3u8
+ＴＯＫＹＯ　ＭＸ１(テスト),http://r3jx.djtmewibu.com/mx1/index.m3u8
+ＴＯＫＹＯ　ＭＸ２(テスト),http://r3jx.djtmewibu.com/mx2/index.m3u8
+新潟テレビ２１(テスト),http://r3jx.djtmewibu.com/ux21/index.m3u8
+ＲＣＣテレビ１(テスト),http://r3jx.djtmewibu.com/rcc/index.m3u8
+テレビ新広島１(テスト),http://r3jx.djtmewibu.com/tss/index.m3u8
+ＢＳ１１イレブン(テスト),http://r3jx.djtmewibu.com/bs11/index.m3u8
+ＡＴ－Ｘ　ＨＤ(テスト),http://r3jx.djtmewibu.com/at-x/index.m3u8
 JPTV-Other,#genre#
 NHKワールド　プレミアム,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 NHK WORLD-JAPAN,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
