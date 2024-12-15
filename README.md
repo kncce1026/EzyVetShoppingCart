@@ -8,9 +8,13 @@ https://raw.staticdn.net/20101010/favtv/jptv/favtv
 
 https://cdn.jsdelivr.net/gh/20101010/favtv@jptv/favtv
 
+https://gcore.jsdelivr.net/gh/20101010/favtv@jptv/favtv
+
 https://gh.idayer.com/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+https://ghgo.xyz/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+
+https://gh.ddlc.top/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
 
 https://gh.api.99988866.xyz/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
 
