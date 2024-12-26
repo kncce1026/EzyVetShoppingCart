@@ -84,8 +84,8 @@ CS-willfonk,#genre#
 Ｊ　ＳＰＯＲＴＳ　３,http://luong.utako.moe/js3/index.m3u8
 Ｊ　ＳＰＯＲＴＳ　４,http://luong.utako.moe/js4/index.m3u8
 スペースシャワーＴＶ,http://luong.utako.moe/spaceshower/index.m3u8
-ＴＢＳチャンネル１http://luong.utako.moe/tbsch1/index.m3u8
-ＴＢＳチャンネル２http://luong.utako.moe/tbsch2/index.m3u8
+ＴＢＳチャンネル１,http://luong.utako.moe/tbsch1/index.m3u8
+ＴＢＳチャンネル２,http://luong.utako.moe/tbsch2/index.m3u8
 ＡＴ－Ｘ,http://vthanh.utako.moe/AT-X/index.m3u8
 アイドル・Ｐｉｇｏｏ(テスト),http://luong.utako.moe/pigoo/index.m3u8
 
@@ -110,5 +110,5 @@ NHK WORLD-JAPAN(AI Sub),https://bmcc.nhkworld.jp/live/index_2M.m3u8
 ショップチャンネル,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 ショップチャンネル,https://stream3.shopch.jp/HLS/master.m3u8
 ＱＶＣ,http://cdn-live1.qvc.jp/iPhone/3000/3000.m3u8
-ジュエリー☆ＧＳＴＶ,https://ep-mediakindendpoint-mediakind.japaneast.streaming.mediakind.com/056f26c8-21c2-4c8b-bce8-55c9cf75b8f3/index.qfm/manifest(format=m3u8-cmaf).m3u8
-日本CGNTV,https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
+ジュエリー☆ＧＳＴＶ,https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf).m3u8
+日本CGNTV,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
