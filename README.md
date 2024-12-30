@@ -18,7 +18,12 @@ https://gh.ddlc.top/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
 
 https://gh.api.99988866.xyz/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
 
+# お知らせ
+
+- リンク `utako.moe` を**他のリポジトリにアップロードしない**ようご配慮ください。高いネットワークトラフィックの発生を避けるためです。
+
 # 使い方
+
 favtvの使い方を紹介していきます。 まず、任意のビデオプレーヤーを使用するだけです。
 
 #### ■ Windows PC対応の動画再生ソフト
