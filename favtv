@@ -60,34 +60,38 @@ CS-willfonk,#genre#
 テレビ朝日,http://vthanh.utako.moe/TV_Asahi/index.m3u8
 テレ東,http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 ＴＯＫＹＯ　ＭＸ１,http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
-ＭＢＳ毎日放送,http://luong.utako.moe/mbs/index.m3u8
-ＡＢＣテレビ,http://luong.utako.moe/abc/index.m3u8
-テレビ大阪,http://luong.utako.moe/tvo/index.m3u8
-関西テレビ,http://luong.utako.moe/kansaitv/index.m3u8
-読売テレビ,http://luong.utako.moe/ytv/index.m3u8
-ＫＢＳ京都,http://luong.utako.moe/kbs/index.m3u8
-サンテレビ,http://luong.utako.moe/suntv/index.m3u8
+ＴＯＫＹＯ　ＭＸ２,http://vthanh.utako.moe/Tokyo_MX2/index.m3u8
+ＭＢＳ毎日放送,http://vthanh.utako.moe/mbs/index.m3u8
+ＡＢＣテレビ,http://vthanh.utako.moe/abc/index.m3u8
+テレビ大阪,http://vthanh.utako.moe/tvo/index.m3u8
+関西テレビ,http://vthanh.utako.moe/kansaitv/index.m3u8
+読売テレビ,http://vthanh.utako.moe/ytv/index.m3u8
+ＫＢＳ京都,http://vthanh.utako.moe/kbs/index.m3u8
+サンテレビ,http://vthanh.utako.moe/suntv/index.m3u8
 ＮＨＫ　ＢＳ,http://vthanh.utako.moe/NHK_BS/index.m3u8
-ＮＨＫ　ＢＳＰ４Ｋ,http://luong.utako.moe/bsp4k/index.m3u8
-ＢＳ朝日,http://luong.utako.moe/bsasahi/index.m3u8
-ＢＳ－ＴＢＳ,http://luong.utako.moe/bstbs/index.m3u8
-ＢＳ日テレ,http://luong.utako.moe/bsntv/index.m3u8
-ＢＳテレ東,http://luong.utako.moe/bstvtokyo/index.m3u8
-ＢＳフジ,http://luong.utako.moe/bsfuji/index.m3u8
+ＮＨＫ　ＢＳＰ４Ｋ,http://vthanh.utako.moe/bsp4k/index.m3u8
+ＢＳ朝日,http://vthanh.utako.moe/bsasahi/index.m3u8
+ＢＳ－ＴＢＳ,http://vthanh.utako.moe/bstbs/index.m3u8
+ＢＳ日テレ,http://vthanh.utako.moe/bsntv/index.m3u8
+ＢＳテレ東,http://vthanh.utako.moe/bstvtokyo/index.m3u8
+ＢＳテレ東　４Ｋ(テスト),http://vthanh.utako.moe/bstx4k/index.m3u8
+ＢＳフジ,http://vthanh.utako.moe/bsfuji/index.m3u8
+ＢＳ１０,http://vthanh.utako.moe/bs10/index.m3u8
 ＢＳ１１イレブン,http://vthanh.utako.moe/BS11/index.m3u8
 ＢＳアニマックス,http://vthanh.utako.moe/Animax/index.m3u8
-ＷＯＷＯＷプライム,http://luong.utako.moe/wprime/index.m3u8
-ＷＯＷＯＷシネマ,http://luong.utako.moe/wcinema/index.m3u8
-ＷＯＷＯＷライブ,http://luong.utako.moe/wlive/index.m3u8
-Ｊ　ＳＰＯＲＴＳ　１,http://luong.utako.moe/js1/index.m3u8
-Ｊ　ＳＰＯＲＴＳ　２,http://luong.utako.moe/js2/index.m3u8
-Ｊ　ＳＰＯＲＴＳ　３,http://luong.utako.moe/js3/index.m3u8
-Ｊ　ＳＰＯＲＴＳ　４,http://luong.utako.moe/js4/index.m3u8
-スペースシャワーＴＶ,http://luong.utako.moe/spaceshower/index.m3u8
-ＴＢＳチャンネル１,http://luong.utako.moe/tbsch1/index.m3u8
-ＴＢＳチャンネル２,http://luong.utako.moe/tbsch2/index.m3u8
+ＷＯＷＯＷプライム,http://vthanh.utako.moe/wprime/index.m3u8
+ＷＯＷＯＷシネマ,http://vthanh.utako.moe/wcinema/index.m3u8
+ＷＯＷＯＷライブ,http://vthanh.utako.moe/wlive/index.m3u8
+Ｊ　ＳＰＯＲＴＳ　１,http://vthanh.utako.moe/js1/index.m3u8
+Ｊ　ＳＰＯＲＴＳ　２,http://vthanh.utako.moe/js2/index.m3u8
+Ｊ　ＳＰＯＲＴＳ　３,http://vthanh.utako.moe/js3/index.m3u8
+Ｊ　ＳＰＯＲＴＳ　４,http://vthanh.utako.moe/js4/index.m3u8
+スペースシャワーＴＶ,http://vthanh.utako.moe/spaceshower/index.m3u8
+ＴＢＳチャンネル１,http://vthanh.utako.moe/tbsch1/index.m3u8
+ＴＢＳチャンネル２,http://vthanh.utako.moe/tbsch2/index.m3u8
+チャンネル銀河,http://vthanh.utako.moe/gingach/index.m3u8
 ＡＴ－Ｘ,http://vthanh.utako.moe/AT-X/index.m3u8
-アイドル・Ｐｉｇｏｏ(テスト),http://luong.utako.moe/pigoo/index.m3u8
+アイドル・Ｐｉｇｏｏ(テスト),http://vthanh.utako.moe/pigoo/index.m3u8
 
 Favtv-テスト,#genre#
 日テレプラス(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live01.m3u8
