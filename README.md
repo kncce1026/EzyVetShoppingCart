@@ -12,7 +12,13 @@ https://gcore.jsdelivr.net/gh/20101010/favtv@jptv/favtv
 
 https://gh.idayer.com/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
 
-https://ghgo.xyz/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+https://ghfast.top/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+
+https://ghproxy.net/https://raw.githubusercontent.com/20101010/favtv/refs/heads/jptv/favtv
+
+https://github.moeyy.xyz/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+
+https://gh-proxy.com/raw.githubusercontent.com/20101010/favtv/jptv/favtv
 
 https://gh.ddlc.top/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
 
