@@ -51,47 +51,73 @@ CS-willfonk,#genre#
 日テレＮＥＷＳ２４,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ＣＮＮｊ,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 囲碁・将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 地/BS/CS-utako.moe,#genre#
-ＮＨＫ総合　東京,http://vthanh.utako.moe/NHK_G/index.m3u8
-ＮＨＫＥテレ,http://vthanh.utako.moe/NHK_E/index.m3u8
-日テレ,http://vthanh.utako.moe/Nippon_TV/index.m3u8
-ＴＢＳ,http://vthanh.utako.moe/TBS/index.m3u8
-フジテレビ,http://vthanh.utako.moe/Fuji_TV/index.m3u8
-テレビ朝日,http://vthanh.utako.moe/TV_Asahi/index.m3u8
-テレ東,http://vthanh.utako.moe/TV_Tokyo/index.m3u8
-ＴＯＫＹＯ　ＭＸ１,http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
-ＴＯＫＹＯ　ＭＸ２,http://vthanh.utako.moe/Tokyo_MX2/index.m3u8
-ＭＢＳ毎日放送,http://vthanh.utako.moe/mbs/index.m3u8
-ＡＢＣテレビ,http://vthanh.utako.moe/abc/index.m3u8
-テレビ大阪,http://vthanh.utako.moe/tvo/index.m3u8
-関西テレビ,http://vthanh.utako.moe/kansaitv/index.m3u8
-読売テレビ,http://vthanh.utako.moe/ytv/index.m3u8
-ＫＢＳ京都,http://vthanh.utako.moe/kbs/index.m3u8
-サンテレビ,http://vthanh.utako.moe/suntv/index.m3u8
-ＮＨＫ　ＢＳ,http://vthanh.utako.moe/NHK_BS/index.m3u8
-ＮＨＫ　ＢＳＰ４Ｋ,http://vthanh.utako.moe/bsp4k/index.m3u8
-ＢＳ朝日,http://vthanh.utako.moe/bsasahi/index.m3u8
-ＢＳ－ＴＢＳ,http://vthanh.utako.moe/bstbs/index.m3u8
-ＢＳ日テレ,http://vthanh.utako.moe/bsntv/index.m3u8
-ＢＳテレ東,http://vthanh.utako.moe/bstvtokyo/index.m3u8
-ＢＳテレ東　４Ｋ(テスト),http://vthanh.utako.moe/bstx4k/index.m3u8
-ＢＳフジ,http://vthanh.utako.moe/bsfuji/index.m3u8
-ＢＳ１０,http://vthanh.utako.moe/bs10/index.m3u8
-ＢＳ１１イレブン,http://vthanh.utako.moe/BS11/index.m3u8
-ＢＳアニマックス,http://vthanh.utako.moe/Animax/index.m3u8
-ＷＯＷＯＷプライム,http://vthanh.utako.moe/wprime/index.m3u8
-ＷＯＷＯＷシネマ,http://vthanh.utako.moe/wcinema/index.m3u8
-ＷＯＷＯＷライブ,http://vthanh.utako.moe/wlive/index.m3u8
-Ｊ　ＳＰＯＲＴＳ　１,http://vthanh.utako.moe/js1/index.m3u8
-Ｊ　ＳＰＯＲＴＳ　２,http://vthanh.utako.moe/js2/index.m3u8
-Ｊ　ＳＰＯＲＴＳ　３,http://vthanh.utako.moe/js3/index.m3u8
-Ｊ　ＳＰＯＲＴＳ　４,http://vthanh.utako.moe/js4/index.m3u8
-スペースシャワーＴＶ,http://vthanh.utako.moe/spaceshower/index.m3u8
-ＴＢＳチャンネル１,http://vthanh.utako.moe/tbsch1/index.m3u8
-ＴＢＳチャンネル２,http://vthanh.utako.moe/tbsch2/index.m3u8
-チャンネル銀河,http://vthanh.utako.moe/gingach/index.m3u8
-ＡＴ－Ｘ,http://vthanh.utako.moe/AT-X/index.m3u8
-アイドル・Ｐｉｇｏｏ(テスト),http://vthanh.utako.moe/pigoo/index.m3u8
+ＮＨＫ総合　東京,http://mt01.utako.moe/NHK_G/index.m3u8
+ＮＨＫＥテレ,http://mt01.utako.moe/NHK_E/index.m3u8
+日テレ,http://mt01.utako.moe/Nippon_TV/index.m3u8
+ＴＢＳ,http://mt01.utako.moe/TBS/index.m3u8
+フジテレビ,http://mt01.utako.moe/Fuji_TV/index.m3u8
+テレビ朝日,http://mt01.utako.moe/TV_Asahi/index.m3u8
+テレ東,http://mt01.utako.moe/TV_Tokyo/index.m3u8
+ＴＯＫＹＯ　ＭＸ１,http://mt01.utako.moe/Tokyo_MX1/index.m3u8
+ＴＯＫＹＯ　ＭＸ２,http://mt01.utako.moe/Tokyo_MX2/index.m3u8
+ＭＢＳ毎日放送,http://mt01.utako.moe/mbs/index.m3u8
+ＡＢＣテレビ,http://mt01.utako.moe/abc/index.m3u8
+テレビ大阪,http://mt01.utako.moe/tvo/index.m3u8
+関西テレビ,http://mt01.utako.moe/kansaitv/index.m3u8
+読売テレビ,http://mt01.utako.moe/ytv/index.m3u8
+ＫＢＳ京都,http://mt01.utako.moe/kbs/index.m3u8
+サンテレビ,http://mt01.utako.moe/suntv/index.m3u8
+ＮＨＫ　ＢＳ,http://mt01.utako.moe/NHK_BS/index.m3u8
+ＮＨＫ　ＢＳＰ４Ｋ,http://mt01.utako.moe/bsp4k/index.m3u8
+ＢＳ朝日,http://mt01.utako.moe/bsasahi/index.m3u8
+ＢＳ－ＴＢＳ,http://mt01.utako.moe/bstbs/index.m3u8
+ＢＳ日テレ,http://mt01.utako.moe/bsntv/index.m3u8
+ＢＳテレ東,http://mt01.utako.moe/bstvtokyo/index.m3u8
+ＢＳフジ,http://mt01.utako.moe/bsfuji/index.m3u8
+ＢＳ１０,http://mt01.utako.moe/bs10/index.m3u8
+ＢＳ１１イレブン,http://mt01.utako.moe/BS11/index.m3u8
+ＢＳアニマックス,http://ca01.utako.moe/Animax/index.m3u8
+グリーンチャンネル,https://mt01.utako.moe/green/index.m3u8
+日本映画専門ｃｈ,https://ca01.utako.moe/nihoneiga/index.m3u8
+ＷＯＷＯＷプライム,http://mt01.utako.moe/wprime/index.m3u8
+ＷＯＷＯＷシネマ,http://mt01.utako.moe/wcinema/index.m3u8
+ＷＯＷＯＷライブ,http://mt01.utako.moe/wlive/index.m3u8
+Ｊ　ＳＰＯＲＴＳ　１,http://mt01.utako.moe/js1/index.m3u8
+Ｊ　ＳＰＯＲＴＳ　２,http://mt01.utako.moe/js2/index.m3u8
+Ｊ　ＳＰＯＲＴＳ　３,http://mt01.utako.moe/js3/index.m3u8
+Ｊ　ＳＰＯＲＴＳ　４,http://mt01.utako.moe/js4/index.m3u8
+スペースシャワーＴＶ,http://ca01.utako.moe/spaceshower/index.m3u8
+ＴＢＳチャンネル１,http://ca01.utako.moe/tbsch1/index.m3u8
+ＴＢＳチャンネル２,http://ca01.utako.moe/tbsch2/index.m3u8
+スカイＡ,https://ca01.utako.moe/skya/index.m3u8
+ＧＡＯＲＡ,https://mt01.utako.moe/gaora/index.m3u8
+ＭＴＶ,https://ca01.utako.moe/mtv/index.m3u8
+Ｍｎｅｔ,https://ca01.utako.moe/mnet/index.m3u8
+歌謡ポップス,https://ca01.utako.moe/kayopops/index.m3u8
+ディズニーｃｈ,https://ca01.utako.moe/disneychan/index.m3u8
+カートゥーン,https://ca01.utako.moe/cartoon_network/index.m3u8
+日テレジータス,https://ca01.utako.moe/ntvgplus/index.m3u8
+ファミリー劇場,https://ca01.utako.moe/familygeki/index.m3u8
+ＭＯＮＤＯ　ＴＶ,https://ca01.utako.moe/mondo/index.m3u8
+チャンネル銀河,http://ca01.utako.moe/gingach/index.m3u8
+ＡＴ－Ｘ,http://mt01.utako.moe/AT-X/index.m3u8
+テレ朝チャンネル１,https://ca01.utako.moe/ex_ch1/index.m3u8
+テレ朝チャンネル２,https://ca01.utako.moe/ex_ch2/index.m3u8
+フジテレビＯＮＥ,https://ca01.utako.moe/fuji_one/index.m3u8
+フジテレビＴＷＯ,https://ca01.utako.moe/fuji_two/index.m3u8
+フジテレビＮＥＸＴ,https://ca01.utako.moe/fuji_next/index.m3u8
+映画・ｃｈＮＥＣＯ,https://ca01.utako.moe/neco/index.m3u8
+Ｄｌｉｆｅ,https://ca01.utako.moe/dlife/index.m3u8
+東映チャンネル,https://ca01.utako.moe/toei/index.m3u8
+FIGHTING TV サムライ,https://ca01.utako.moe/fighting_tv/index.m3u8
+エンタメ～テレ,https://ca01.utako.moe/entermei_tele/index.m3u8
+スポーツライブ＋,https://ca01.utako.moe/sport_live_plus/index.m3u8
+ホームドラマＣＨ,https://ca01.utako.moe/homedrama/index.m3u8
+旅チャンネル,https://ca01.utako.moe/tabi/index.m3u8
+V☆パラダイス(テスト),https://ca01.utako.moe/v_paradise/index.m3u8
+アイドル・Ｐｉｇｏｏ(テスト),http://mt01.utako.moe/pigoo/index.m3u8
 
 Favtv-テスト,#genre#
 日テレプラス(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live01.m3u8
