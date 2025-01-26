@@ -1,30 +1,30 @@
-[![](https://img.shields.io/badge/捐赠-寄付支援-FF4230.svg)](https://github.com/20101010/favtv/blob/test/Donation.md)
+[![](https://img.shields.io/badge/捐赠-寄付支援-FF4230.svg)](https://github.com/20101010/telegram/blob/test/Donation.md)
 
-# favtvとは？
+# telegram
 
-favtvは、私の大好きな日本のテレビ放送の完全なコレクションをオープンソースプロジェクト提供し、日本のテレビ放送を楽しむためのリソースを提供しています。
+telegramは、私の大好きな日本のテレビ放送の完全なコレクションをオープンソースプロジェクト提供し、日本のテレビ放送を楽しむためのリソースを提供しています。
 
 # Github スタティック アクセラレーション
 
-https://raw.staticdn.net/20101010/favtv/jptv/favtv
+https://raw.staticdn.net/20101010/telegram/jptv/telegram
 
-https://cdn.jsdelivr.net/gh/20101010/favtv@jptv/favtv
+https://cdn.jsdelivr.net/gh/20101010/telegram@jptv/telegram
 
-https://gcore.jsdelivr.net/gh/20101010/favtv@jptv/favtv
+https://gcore.jsdelivr.net/gh/20101010/telegram@jptv/telegram
 
-https://gh.idayer.com/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+https://gh.idayer.com/https://raw.githubusercontent.com/20101010/telegram/jptv/telegram
 
-https://ghfast.top/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+https://ghfast.top/https://raw.githubusercontent.com/20101010/telegram/jptv/telegram
 
-https://ghproxy.net/https://raw.githubusercontent.com/20101010/favtv/refs/heads/jptv/favtv
+https://ghproxy.net/https://raw.githubusercontent.com/20101010/telegram/refs/heads/jptv/telegram
 
-https://github.moeyy.xyz/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+https://github.moeyy.xyz/https://raw.githubusercontent.com/20101010/telegram/jptv/telegram
 
-https://gh-proxy.com/raw.githubusercontent.com/20101010/favtv/jptv/favtv
+https://gh-proxy.com/raw.githubusercontent.com/20101010/telegram/jptv/telegram
 
-https://gh.ddlc.top/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+https://gh.ddlc.top/https://raw.githubusercontent.com/20101010/telegram/jptv/telegram
 
-https://gh.api.99988866.xyz/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
+https://gh.api.99988866.xyz/https://raw.githubusercontent.com/20101010/telegram/jptv/telegram
 
 # お知らせ
 
@@ -32,7 +32,7 @@ https://gh.api.99988866.xyz/https://raw.githubusercontent.com/20101010/favtv/jpt
 
 # 使い方
 
-favtvの使い方を紹介していきます。 まず、任意のビデオプレーヤーを使用するだけです。
+telegramの使い方を紹介していきます。 まず、任意のビデオプレーヤーを使用するだけです。
 
 #### ■ Windows PC対応の動画再生ソフト
 
