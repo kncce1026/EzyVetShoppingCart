@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/捐赠-寄付支援-FF4230.svg)](https://github.com/20101010/telegram/blob/test/Donation.md)
 
-# telegram
+# mikutter
 
 telegramは、私の大好きな日本のテレビ放送の完全なコレクションをオープンソースプロジェクト提供し、日本のテレビ放送を楽しむためのリソースを提供しています。
 
